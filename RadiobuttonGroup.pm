@@ -20,7 +20,7 @@
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
 
-$Tk::RadiobuttonGroup::VERSION = '0.2';
+$Tk::RadiobuttonGroup::VERSION = '0.2.1';
 package Tk::RadiobuttonGroup;
 
 use Data::Dumper;
