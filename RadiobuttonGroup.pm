@@ -1,5 +1,5 @@
 # RadiobuttonGroup.pl
-# Version: 0.2
+# Version: 0.2.2
 #
 # By: Joseph Annino - jannino@jannino.com - http://www.jannino.com
 # Copyright 2002 American Museum of Natural History
@@ -20,7 +20,7 @@
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
 
-$Tk::RadiobuttonGroup::VERSION = '0.2.1';
+$Tk::RadiobuttonGroup::VERSION = '0.2.2';
 package Tk::RadiobuttonGroup;
 
 use Data::Dumper;
